@@ -1,9 +1,5 @@
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DamianSchoenberger.DamianSchoenberger&left_color=slategray"  />
-
-###
-
 <h3 align="left">Hey 👀</h2>
 
 ###
