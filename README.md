@@ -6,7 +6,12 @@
 
 <p align="left">Hey! I am Damian and Founder of Moini Hosting. I like to Code and play Video Games. I can C#, C++, C, JS, HTML, CSS and Py. If you want help Contact me under mailto:support@moini-hosting.de</p>
 
+###
 
+<h4 align="left">My Discord:</h4>
+
+###
+[![Discord Presence](https://lanyard.cnrad.dev/api/1241397751644950652)](https://discord.com/users/1241397751644950652)
 ###
 
 <h4 align="left">My stats:</h4>
