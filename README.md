@@ -11,7 +11,7 @@
 <h4 align="left">My Discord:</h4>
 
 ###
-<img width="400" src="https://dsc-readme.tsuni.dev/api/user/1241397751644950652"></img>
+<img src="https://discord.c99.nl/widget/theme-4/1241397751644950652.png" alt="Damian">
 ###
 
 <h4 align="left">My stats:</h4>
