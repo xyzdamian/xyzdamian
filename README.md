@@ -11,7 +11,8 @@
 <h4 align="left">My Discord:</h4>
 
 ###
-![My Discord](https://discord-readme-badge.vercel.app/api?id=1241397751644950652)
+[[![Discord Presence](https://lanyard.cnrad.dev/api/1241397751644950652)](https://discord.com/users/1241397751644950652)
+](https://discord-profile-starcea.paring.moe/discord/1241397751644950652)
 ###
 
 <h4 align="left">My stats:</h4>
