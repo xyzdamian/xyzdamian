@@ -11,8 +11,7 @@
 <h4 align="left">My Discord:</h4>
 
 ###
-[[![Discord Presence](https://lanyard.cnrad.dev/api/1241397751644950652)](https://discord.com/users/1241397751644950652)
-](https://discord-profile-starcea.paring.moe/discord/1241397751644950652)
+<img width="400" src="https://dsc-readme.tsuni.dev/api/user/1241397751644950652"></img>
 ###
 
 <h4 align="left">My stats:</h4>
