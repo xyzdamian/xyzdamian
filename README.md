@@ -11,7 +11,8 @@
 <h4 align="left">My Discord:</h4>
 
 ###
-<img src="https://discord.c99.nl/widget/theme-4/1241397751644950652.png" alt="Damian">
+[<img src="https://discord.c99.nl/widget/theme-4/1241397751644950652.png" alt="Damian">
+](https://discord.c99.nl/widget/theme-2/1241397751644950652.png)
 ###
 
 <h4 align="left">My stats:</h4>
