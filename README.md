@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hey! I am Damian and Founder of Moini Hosting. I like to Code and play Video Games. I can C#, C++, C, JS, HTML, CSS and Py. If you want help Contact me under mailto:support@moini-hosting.de</p>
+<p align="left">Hey! I am Damian and Founder of Moini Hosting. I like to Code and play Video Games. I can C#, C++, C, JS, HTML, CSS and Py. </p>
 
 ###
 
