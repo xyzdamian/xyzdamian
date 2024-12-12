@@ -15,13 +15,6 @@
 ](https://discord.c99.nl/widget/theme-2/1241397751644950652.png)
 ###
 
-<h4 align="left">My stats:</h4>
-
-###
-
-![](https://github-readme-stats.vercel.app/api?username=damianschoenberger&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=damianschoenberger&theme=dark&hide_border=false)<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damianschoenberger/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/damianschoenberger/tobiasmeyhoefer/output/github-snake.svg" />
