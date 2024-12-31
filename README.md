@@ -8,12 +8,7 @@
 
 ###
 
-<h4 align="left">My Discord:</h4>
-
-###
-[<img src="https://discord.c99.nl/widget/theme-4/1241397751644950652.png" alt="Damian">
-](https://discord.c99.nl/widget/theme-2/1241397751644950652.png)
-###
+[![Discord Presence](https://lanyard.cnrad.dev/api/1241397751644950652)](https://discord.com/users/1241397751644950652)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damianschoenberger/damianschoenberger/output/github-snake-dark.svg" />
