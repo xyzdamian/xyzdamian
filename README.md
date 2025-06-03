@@ -9,7 +9,7 @@
 ###
 
 <iframe
-    src="https://linkgames.de/api/v4/widget/{your_id}?type=vsc"
+    src="https://linkgames.de/api/v4/widget/1241397751644950652?type=vsc"
     width="600"
     height="150"
     allowtransparency="true"
