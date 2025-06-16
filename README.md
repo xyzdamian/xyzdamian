@@ -4,10 +4,6 @@
 
 ###
 
-<p align="left">Hey! I am Damian. I like to Code and play Video Games. I can C#, C++, C, JS, HTML, CSS and Py. </p>
-
-###
-
 <iframe
     src="https://linkgames.de/api/v4/widget/1241397751644950652?type=vsc"
     width="600"
